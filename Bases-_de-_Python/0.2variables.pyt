@@ -15,8 +15,7 @@ print(my_String_variable,my_int_Variable,My_bool_variable)
 # funcion len# 
 print(len(my_String_variable))
 # variables en una sola linea# 
-name,surname,age="jorge,jaguar,26"
-print("me llamo"),name,surname,"y tengo",age,"años"
+
 
 
 
