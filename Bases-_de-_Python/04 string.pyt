@@ -17,4 +17,4 @@ a,b,c,d,e,f=lenguage
 a,b= "python"
 print(a)
 print(b)
-# Division #
+# Conversion de minusculas y mayusculas  #
