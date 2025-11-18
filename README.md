@@ -44,3 +44,32 @@ Leccion 3:Operadores
 
 
 Leccion 4:Strings 
+
+
+
+
+
+
+
+lencion 5: Listas
+
+
+
+
+
+
+
+Lnccion 6: tuples
+
+
+
+
+
+
+
+Lencion 7: sets
+
+
+
+
+
