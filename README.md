@@ -73,3 +73,22 @@ Lencion 7: sets
 
 
 
+
+
+leccion 8: dicts
+
+
+
+
+
+
+
+leccion 9: Conditional
+
+
+
+
+
+
+
+leccion 10. loops 
